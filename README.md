@@ -87,7 +87,7 @@ Soy estudiante de **Desarrollo de aplicaciones web** apasionado/a por la tecnolo
 
 <div align="center">
   
-![Visitas al perfil](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=flat-square&label=Visitas+al+Perfil)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=pruizsalado&color=blueviolet&style=flat-square&label=Visitas+al+Perfil)
 
 **⭐ Si te gusta mi trabajo, no olvides darle una estrella a mis repositorios ⭐**
 
