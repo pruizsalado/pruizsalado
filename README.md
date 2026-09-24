@@ -5,7 +5,7 @@
 Soy estudiante de **Desarrollo de aplicaciones web** apasionado/a por la tecnología y el desarrollo de software. Me encanta aprender nuevas tecnologías y trabajar en proyectos innovadores.
 
 - 🔭 Actualmente trabajando en: **Mis estudios y proyectos personales de desarrollo**
-- 🌱 Aprendiendo: **Java, CSS, Git/GitHub, Linux y HTML/CSS**
+- 🌱 Aprendiendo: **Java, Spring, Linux y React**
 - 👯 Buscando colaborar en: **Proyectos educativos y open source**
 - 💬 Pregúntame sobre: **Programación básica, lógica, aprendizaje autodidacta y trabajo en equipo**
 - 📫 Cómo contactarme: **pabloruizsalado@gmail.com**
@@ -59,8 +59,8 @@ Soy estudiante de **Desarrollo de aplicaciones web** apasionado/a por la tecnolo
 ## 🎓 Educación
 
 - 📚 **IES Camas Antonio-Brisquet**
-  - 1º Desarrollo de aplicaciones web
-  - Año: [2025-2026]
+  - 2º Desarrollo de aplicaciones web
+  - Año: [2026-2027]
 
 ---
 
